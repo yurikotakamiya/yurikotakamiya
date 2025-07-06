@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yuriko (YongAn Lee)
+# 👋 Hi, I'm Yuriko
 
 I'm a full stack web developer based in New York City with 3+ years of experience building scalable, production-grade applications. I specialize in JavaScript/TypeScript, React, Node.js, and Ruby on Rails. I'm passionate about solving real-world problems with clean, maintainable code and constantly exploring new technologies like GPT, Docker, and Jenkins.
 
