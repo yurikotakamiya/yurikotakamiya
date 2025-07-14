@@ -26,7 +26,7 @@ I'm a full stack web developer based in New York City with 3+ years of experienc
 
 ## 🔗 Featured Projects
 
-### [Family Utils (GitHub Repo)](https://github.com/yurikotakamiya/family-utils)
+### [Family Utils (GitHub Repo)](https://github.com/yurikotakamiya/hlh_utils)
 A containerized full-stack productivity suite for family use, including:
 - GPT-powered chatbot using OpenAI API
 - Visual journaling system with daily scoring
