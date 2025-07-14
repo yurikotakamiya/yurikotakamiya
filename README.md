@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Yuriko
 
-I'm a full stack web developer based in New York City with 3+ years of experience building scalable, production-grade applications. I specialize in JavaScript/TypeScript, React, Node.js, and Ruby on Rails. I'm passionate about solving real-world problems with clean, maintainable code and constantly exploring new technologies like GPT, Docker, and Jenkins.
+I'm a software developer based in New York City with 3+ years of experience building scalable, production-grade applications. I specialize in JavaScript/TypeScript, React, Node.js, and Ruby on Rails.
 
 ---
 
-## 💼 Currently Working On
+## 💼 Currently
 
 - 🔧 Building and maintaining internal tools (React + Rails + PostgreSQL)
-- 🧠 Completing the UC San Diego MicroMasters in Data Structures and Algorithms
-- 🛠️ Personal projects with LLMs, Jenkins automation, and full-stack architecture
+- 🧠 Completed the UC San Diego MicroMasters in Data Structures and Algorithms
+- 🛠️ Exploring AI-powered automation, Jenkins pipelines, and Dockerized full-stack architectures
 
 ---
 
@@ -20,25 +20,24 @@ I'm a full stack web developer based in New York City with 3+ years of experienc
 **Testing:** Jest, React Testing Library, Cypress, SuperTest  
 **Databases:** PostgreSQL, MySQL, SQLite, Redis  
 **DevOps & Tools:** Docker, Jenkins, AWS (EC2, ElastiCache), Git, Vercel, Netlify, Heroku  
-**Other Tools:** Postman, VS Code, Slack, Zoom, Figma, Jira, Confluence  
 
 ---
 
 ## 🔗 Featured Projects
 
-### [Family Utils (GitHub Repo)](https://github.com/yurikotakamiya/hlh_utils)
-A containerized full-stack productivity suite for family use, including:
-- GPT-powered chatbot using OpenAI API
-- Visual journaling system with daily scoring
-- Automated 2ch forum scraper and summarizer with Ollama + Jenkins
-- YouTube transcript summarizer
-- Bulletin board for asynchronous communication
+### [Family Utils](https://github.com/yurikotakamiya/hlh_utils)
+A full-stack personal productivity suite built with Docker, React, Node.js, and PostgreSQL. Features include:
+- GPT-powered chatbot via OpenAI API
+- Visual journaling with daily category scoring (GitHub heatmap style)
+- Custom content aggregator with LLM filtering and cron-based ingestion (via Jenkins)
+- YouTube transcript summarizer using GPT
+- Bulletin board for family note sharing
 
-### [Crypto World (GitHub Repo)](https://github.com/yurikotakamiya/crypto-world)
+### [Crypto World](https://github.com/yurikotakamiya/crypto-world)
 A simulated crypto trading platform featuring:
-- User-configurable trading strategies (RSI-based)
-- Real-time market data from crypto exchange APIs
-- Email alerts, RESTful backend, and PostgreSQL + AWS hosting
+- User-defined trading strategies (RSI-based)
+- Real-time market data from exchange APIs
+- Email alerts for price conditions
 
 ---
 
