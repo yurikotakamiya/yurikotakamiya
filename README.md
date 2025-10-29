@@ -33,7 +33,7 @@ A full-stack personal productivity suite built with Docker, React, Node.js, and 
 - YouTube transcript summarizer using GPT
 - Bulletin board for family note sharing
 
-### [Crypto World](https://github.com/yurikotakamiya/crypto-world)
+### [Crypto World](https://github.com/yurikotakamiya/crypto-world-web-frontend)
 A simulated crypto trading platform featuring:
 - User-defined trading strategies (RSI-based)
 - Real-time market data from exchange APIs
